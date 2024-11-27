@@ -25,6 +25,7 @@ La clase principal que representa el arca.
 ![image](https://github.com/user-attachments/assets/89f83d64-b7f9-4918-bed6-c0295465e8fa)
 
 
+
 ### 🐾 **Animal**
 Clase base para todos los animales del arca.  
 **Atributos clave**:
