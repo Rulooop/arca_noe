@@ -41,15 +41,6 @@ La clase principal que representa el arca.
 
 
 
-
-
-
-
-
-
-
-
-
 ### 🐾 **Animal**
 Clase base para todos los animales del arca.  
 **Atributos clave**:
@@ -59,7 +50,7 @@ Clase base para todos los animales del arca.
 **Métodos principales**:
 - `alimentar()`: Reduce el hambre del animal.  
 - `dar_agua()`: Reduce la sed del animal.  
-- `estado()`: Devuelve el estado del animal (nombre, tipo, hambre, sed).  
+- `estado()`: Devuelve el estado del animal (nombre, tipo, hambre, sed).
 
 **Subclases**:
 - **Perro**: Tipo predeterminado "Perro".  
