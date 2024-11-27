@@ -22,12 +22,8 @@ La clase principal que representa el arca.
 - Inventario de alimentos y cantidad de agua.  
 
 **Métodos principales**:
-- `agregar_animal(animal)`: Agrega un animal al arca si hay espacio.  
-- `agregar_alimento(alimento)`: Añade alimento al arca.  
-- `agregar_agua(cantidad)`: Incrementa el suministro de agua.  
-- `alimentar_animal(animal)`: Alimenta a un animal con los alimentos disponibles.  
-- `dar_agua(animal)`: Proporciona agua a un animal.  
-- `estado_arca()`: Muestra el estado actual del arca.  
+![image](https://github.com/user-attachments/assets/89f83d64-b7f9-4918-bed6-c0295465e8fa)
+
 
 ### 🐾 **Animal**
 Clase base para todos los animales del arca.  
