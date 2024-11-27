@@ -23,7 +23,29 @@ La clase principal que representa el arca.
 
 **Métodos principales**:
 
-![image](https://github.com/user-attachments/assets/89f83d64-b7f9-4918-bed6-c0295465e8fa)
+![image](https://github.com/user-attachments/assets/0c5d3615-df98-4746-9213-1a8339f3d17a)
+
+![image](https://github.com/user-attachments/assets/7ee443d4-7c11-4fc4-ad6d-dd8a938275a9)
+
+![image](https://github.com/user-attachments/assets/7d89595c-ac40-42b1-8422-6a5aaf8a04cc)
+
+![image](https://github.com/user-attachments/assets/dfbe7843-4982-440e-b48a-facf7de8e927)
+
+![image](https://github.com/user-attachments/assets/61f78d97-12cb-4d40-b3bd-680c7d8ac080)
+
+![image](https://github.com/user-attachments/assets/fcd74925-1961-49bb-b6e3-51260211c4f5)
+
+![image](https://github.com/user-attachments/assets/22470ebf-90c8-41ce-ab8f-29da156dbbd8)
+
+![image](https://github.com/user-attachments/assets/7c399cf2-1676-4b6d-a9b5-62ff8932573d)
+
+
+
+
+
+
+
+
 
 
 
